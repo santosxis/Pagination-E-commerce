@@ -6,19 +6,15 @@ A proposta é apresentar um produto de forma moderna e com interatividade.
 ## 🔥 Visual do Projeto
 
 <p align="center">
-<img src="/assets/print-1.1.png" alt="" width="700"/>
   <br>
   <br>
   
-<img src="/assets/print-1.2.png" alt="" width="700"/>
-  <br>
-  <br>
 
-<img src="/assets/print-1.3.png" alt="" width="700"/> 
-  <br>
-  <br>
+https://github.com/user-attachments/assets/7a889dd1-1bcb-4d7a-9ef4-aa1322461c56
 
-<img src="/assets/print-1.4.png" alt="" width="700"/>
+
+  <br>
+  <br>
 </p>
 
 ## 🚀 Funcionalidades
